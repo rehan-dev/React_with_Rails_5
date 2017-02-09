@@ -114,12 +114,15 @@
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v5.0.1, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v5.0.1, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v7.1.4, ruby-2.2.6-p396) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="babel-source (v5.8.35, ruby-2.2.6-p396) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="babel-transpiler (v0.7.0, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.13.6, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.2.1, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.12.2, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.0.4, ruby-2.2.6-p396) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="connection_pool (v2.2.1, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug_inspector (v0.0.2, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.7.0, ruby-2.2.6-p396) [gem]" level="application" />
@@ -145,6 +148,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.0.3, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v5.0.1, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v12.0.0, ruby-2.2.6-p396) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="react-rails (v1.10.0, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.4.23, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.6, ruby-2.2.6-p396) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="semantic-ui-sass (v2.2.7.1, ruby-2.2.6-p396) [gem]" level="application" />

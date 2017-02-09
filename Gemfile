@@ -47,6 +47,8 @@ end
 
 #semantic ui front-end framework
 gem 'semantic-ui-sass', '~> 2.2', '>= 2.2.7.1'
+# react rails javascript library
+gem 'react-rails'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
