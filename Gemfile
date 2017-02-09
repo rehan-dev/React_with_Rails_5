@@ -45,5 +45,8 @@ group :development do
   gem 'web-console', '>= 3.3.0'
 end
 
+#semantic ui front-end framework
+gem 'semantic-ui-sass', '~> 2.2', '>= 2.2.7.1'
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
